@@ -47,7 +47,7 @@ window.CHAKS_TRANSLATIONS = {
     introduction: 'Discover our Halloween & Christmas 2027 collections in a festive and inspiring atmosphere.',
     location: 'Join us in Alsace', date: 'from 8 December',
     booking: 'Book an appointment with your sales representative',
-    slogan: 'Together, let’s make a difference!', footer: 'CHAKS · Showroom opening',
+    slogan: 'Together, let’s make it different!', footer: 'CHAKS · Showroom opening',
     posterAlt: 'CHAKS — Showroom opening. Halloween & Christmas 2027. Discover our collections in a festive and inspiring atmosphere. Join us in Alsace from 8 December!',
     websiteLabel: 'Visit the CHAKS website (new tab)', socialLabel: 'Follow CHAKS on social media',
     socialLink: 'CHAKS on {network} (new tab)'

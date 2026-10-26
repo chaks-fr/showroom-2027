@@ -32,7 +32,7 @@
       element.setAttribute('aria-label', text.socialLink.replace('{network}', element.dataset.network));
     });
     const poster = document.querySelector('#invitation-poster');
-    const imagePath = `assets/invitation-${code}.jpg`;
+    const imagePath = `assets/invitation-${code}.jpg` + (code === 'en' ? '?v=20261026-slogan' : '');
     if (poster.getAttribute('src') !== imagePath) poster.setAttribute('src', imagePath);
     poster.setAttribute('alt', text.posterAlt);
     document.querySelector('meta[name="description"]').setAttribute('content', text.description);
