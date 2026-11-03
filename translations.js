@@ -31,7 +31,7 @@ window.CHAKS_TRANSLATIONS = {
     description: 'Scoprite le nostre collezioni Halloween & Natale 2027. Vi aspettiamo in Alsazia dall’8 dicembre.',
     languageLabel: 'Scegli la lingua', invitation: 'Il vostro invito CHAKS',
     collection: 'Halloween & Natale 2027', heading: 'Il vostro invito', headingAccent: 'allo showroom.',
-    introduction: 'Scoprite le nostre collezioni Halloween & Natale 2027 in un’atmosfera festosa e ricca di ispirazione.',
+    introduction: 'Scoprite le nostre collezioni Halloween & Natale 2027 in un’atmosfera di festa e ricca di ispirazione.',
     location: 'Vi aspettiamo in Alsazia', date: 'dall’8 dicembre',
     booking: 'Fissate un appuntamento con il vostro referente commerciale',
     slogan: 'Insieme, facciamo la differenza!', footer: 'CHAKS · Apertura dello showroom',
