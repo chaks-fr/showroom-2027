@@ -35,7 +35,7 @@ window.CHAKS_TRANSLATIONS = {
     location: 'Vi aspettiamo in Alsazia', date: 'dall’8 dicembre',
     booking: 'Fissate un appuntamento con il vostro referente commerciale',
     slogan: 'Insieme, facciamo la differenza!', footer: 'CHAKS · Apertura dello showroom',
-    posterAlt: 'CHAKS — Apertura dello showroom. Halloween & Natale 2027. Scoprite le nostre collezioni in un’atmosfera festosa e ricca di ispirazione. Vi aspettiamo in Alsazia dall’8 dicembre!',
+    posterAlt: 'CHAKS — Apertura dello showroom. Halloween & Natale 2027. Scoprite le nostre collezioni in un’atmosfera di festa e ricca di ispirazione. Vi aspettiamo in Alsazia dall’8 dicembre!',
     websiteLabel: 'Visita il sito CHAKS (nuova scheda)', socialLabel: 'Seguite CHAKS sui social',
     socialLink: 'CHAKS su {network} (nuova scheda)'
   },
